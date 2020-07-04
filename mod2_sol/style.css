@@ -1,5 +1,6 @@
 
  p {
+ 	padding-top: 15px;
  	padding-left: 10px;
  	padding-right: 10px;  
  } 
@@ -50,12 +51,13 @@
 		}
 
 		.sec {
-		padding: 2px;
+		padding: 3px;
 		float: right;
 		width: 30%;
 		height: 20px;
 		background-color: #F07FAA;
 		text-align: center;
 		border: 1px solid black;
+		font-size: 125%;
 		}
 

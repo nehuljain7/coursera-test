@@ -11,6 +11,9 @@
 {
 	background-color: #43D256;;
 }
+ h1 {
+ 	font-size: 175%;
+ }
  p {
  	padding-top: 15px;
  	padding-left: 10px;

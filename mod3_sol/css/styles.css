@@ -55,4 +55,9 @@ li {
 	color: #000000;
 	font-size: 1.2em;
 }
+.row{
+	margin-left: auto;
+	margin-right: auto;
+}
+
 }

@@ -40,12 +40,20 @@ hr {
 	height: 2px;
 	background-color: #e3f2fd;
 }
+.navbar-toggler-icon {
+ width: 0.9em;
+ height: 0.9em;
+}
 
 @media (max-width: 768px)
 {
+    #header-nav{
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
 #item-list{
 	background-color: #cccccc;
-
 }
 li {
 	border: 1px solid black;

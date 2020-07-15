@@ -1,0 +1,58 @@
+/*< header >*/
+#header-nav{
+	background-color:  #e3f2fd;
+	border: 3px solid #000000;
+}
+
+#header-nav span{
+	font-size: 2em;
+}
+
+
+/*body*/
+
+body{
+	font-family: 'Baloo Da 2', cursive;
+}
+
+.item {
+	background-color: #cccccc;
+	border: 2px solid #000000;
+	margin:30px auto 30px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.item-box {
+	padding-top: 15px;
+}
+
+.item-description{
+	padding-top: 15px;
+}
+
+#heading {
+	margin-top: 15px;
+}
+
+hr {
+	margin: 0px;
+	height: 2px;
+	background-color: #e3f2fd;
+}
+
+@media (max-width: 768px)
+{
+#item-list{
+	background-color: #cccccc;
+
+}
+li {
+	border: 1px solid black;
+
+}
+.navbar-nav .nav-item .item-color{
+	color: #000000;
+	font-size: 1.2em;
+}
+}
